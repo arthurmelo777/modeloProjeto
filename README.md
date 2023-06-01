@@ -19,7 +19,7 @@
 
 # Documentação
 
-[Acessar a documentação do projeto](doc/documentacao.md)
+[Acessar a documentação do projeto](doc)
 
 # Manual da Desenvolvedor
 
