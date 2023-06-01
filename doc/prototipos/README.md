@@ -1,7 +1,6 @@
 # Prototipos de tela
 
-## Tela 1
-<img src="telas/tela1.png" width="1175" height="600" />
+[Tela 1](telas/tela1.png)
 
 
-[Figma - Nome do projeto](link do figma)
+[Figma - Nome do projeto](https://www.figma.com/)

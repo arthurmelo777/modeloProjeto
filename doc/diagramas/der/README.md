@@ -1,6 +1,6 @@
 # Modelo de Entidade Relacionamento
 
-## 1. Diagrama de Entidade Relacionamento
+## Diagrama de Entidade Relacionamento
 
 <img src="der.png"/>
 

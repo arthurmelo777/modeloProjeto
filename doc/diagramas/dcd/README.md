@@ -1,6 +1,6 @@
-# Modelo de Classes de Dominio
+# Modelo de Classes de Domínio
 
-## 1. Diagrama de Classes de Dominio
+## Diagrama de Classes de Domínio
 
 <img src="dcd.png"/>
 

@@ -6,7 +6,7 @@
 
 # Equipe e Formas de Contato
 
-1. [Nome](Link do github)
+1. [Nome](https://github.com/) - Telegram/Instagram
 
 
 # Horário de Reuniões
@@ -21,6 +21,6 @@
 
 [Acessar a documentação do projeto](doc)
 
-# Manual da Desenvolvedor
+# Manual do Desenvolvedor
 
 >Descrever os comandos iniciais para começar a colaborar com o desenvolvimento do projeto

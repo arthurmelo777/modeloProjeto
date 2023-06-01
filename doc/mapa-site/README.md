@@ -2,4 +2,4 @@
 
 <img src="mapa-site.png"/>
 
-Mapa do sitr
+Recomendação de site para fazer o DER: [Figma - FigJam](https://www.figma.com/)
